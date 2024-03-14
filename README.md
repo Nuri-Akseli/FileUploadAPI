@@ -1,7 +1,8 @@
 [FileUploadAPI.postman_collection.json](https://github.com/Nuri-Akseli/FileUploadAPI/files/14600713/FileUploadAPI.postman_collection.json)# Description
 This is a simple .Net Core Web API project that hold files and according to request file can be uploaded or existed file can be deleted
 # Database
-A database is used to determine whether incoming requests are from registered users. In addition, it is aimed to keep the server cleaner by aiming for each user to have a unique directory.![fileUploadAPIDatabase](https://github.com/Nuri-Akseli/FileUploadAPI/assets/89780770/4785ebf3-3ef5-43cf-a826-f20faa28495c)
+A database is used to determine whether incoming requests are from registered users. In addition, it is aimed to keep the server cleaner by aiming for each user to have a unique directory.
+![fileUploadAPIDatabase](https://github.com/Nuri-Akseli/FileUploadAPI/assets/89780770/4785ebf3-3ef5-43cf-a826-f20faa28495c)
 
 # Requests
 1-) /api/File/Post
